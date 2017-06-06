@@ -1,0 +1,20 @@
+MegaFace
+
+MegaFace and MF2: Million-Scale Face Recognition
+http://megaface.cs.washington.edu/
+
+Challenge 1: Train on any dataset, test your method with 1 million distractors
+Challenge 2: Training on 672K identities (4.7 Million photos), test at Million scale
+
+Distractors
+1 Million Photos
+690,572 Unique Users
+
+Training Set
+4.7 Million Photos
+672,057 Unique Identities
+7 Mean photos / person (3 min, 2469 max)
+
+Test Sets
+FaceScrub Celebrities (http://vintage.winklerbros.net/facescrub.html)
+FGNet Age-invariant non-celebrities
