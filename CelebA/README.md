@@ -7,10 +7,10 @@
 each with **40** attribute annotations. The images in this dataset cover large pose variations<br>
 and background clutter. CelebA has large diversities, large quantities, and rich annotations,<br>
 including<br>
-**10,177** number of identities,<br>
-**202,599** number of face images, and<br>
-**5** landmark locations, **40** binary attributes annotations per image.<br>
-<br>
+* **10,177** number of identities,<br>
+* **202,599** number of face images, and<br>
+* **5** landmark locations, **40** binary attributes annotations per image.<br>
+
 The dataset can be employed as the training and test sets for the following computer vision tasks: <br>
 face attribute recognition,<br>
 face detection, and<br>
