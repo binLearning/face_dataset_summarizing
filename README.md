@@ -7,3 +7,4 @@ Summarizing a variety of datasets for face detection, face alignment and face re
 #### [CelebA](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) <br>
 #### [MegaFace](http://megaface.cs.washington.edu/) <br>
 #### [VGG-Face](http://www.robots.ox.ac.uk/~vgg/data/vgg_face/) <br>
+#### [VGG-Face2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) <br>
